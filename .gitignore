@@ -1,0 +1,32 @@
+# Downloaded datasets and archives
+data/
+data.rar
+
+# Local installers
+Anaconda3-*-Linux-*.sh
+
+# Jupyter and Python generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local Python and Conda environments
+.venv/
+venv/
+env/
+.conda/
+
+# Experiment outputs
+runs/
+logs/
+*.log
+
+# Local application and session files
+.~lock.*#
+session-*.md
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
